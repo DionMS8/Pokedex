@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>DS POKEDEX</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+
+    <body>
+
+        <div class="topnav">
+            <div class="topnav">
+                <a class= "active" href=".html"><i class="fa fa-fw fa-home"></i> DS POKEDEX</a>
+            </div>
+        </div>
+
+        <br>
+
+        <div class = "pokemon">
+            <img class  "hero" src = "https://cdn5.vectorstock.com/i/1000x1000/69/24/seamless-pattern-pokemon-go-pokeball-background-vector-23236924.jpg">
+        </div>
+       
+        
+        <a href="#" id="toTopBtn" class="cd-top text-replace js-cd-top cd-top--is-visible cd-top--fade-out" data-abc="true"></a>
+
+        <script>
+
+            $(document).ready(function() {
+            $(window).scroll(function() {
+            if ($(this).scrollTop() > 20) {
+            $('#toTopBtn').fadeIn();
+            } else {
+            $('#toTopBtn').fadeOut();
+            }
+            });
+            
+            $('#toTopBtn').click(function() {
+            $("html, body").animate({
+            scrollTop: 0
+            }, 1000);
+            return false;
+            });
+            });
+
+        </script>
+
+        <!--<div class="form-group">
+            <label>ENTER POKEMON NAME:</label>
+            <input type="text" class="form-control" id="pokemon">
+        </div>-->
+
+
+        <!--LINKING THE JAVASCRIPT FILE-->
+
+        <script src = "api.js"></script>
+
+         <!-- Load font awesome icons -->
+         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+       
+    </body>
+
+</html>
