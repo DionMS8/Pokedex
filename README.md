@@ -1,5 +1,15 @@
 # Pokedex Web App
 
+# Technologies
+
+- HTML
+- CSS
+- JavaScript
+- PokeAPI
+
+# Screenshots 
+
+
 ![image](https://user-images.githubusercontent.com/55777067/126596468-17aa9c26-2949-4163-b24a-8ab68f1f2372.png)
 
 
@@ -7,3 +17,8 @@
 
 
 ![image](https://user-images.githubusercontent.com/55777067/126596559-372612a2-7459-40a1-801c-2f2478153bfd.png)
+
+# Target Users
+
+
+# References
