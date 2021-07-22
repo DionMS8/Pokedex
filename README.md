@@ -1,13 +1,26 @@
 # Pokedex Web App
 
-# Technologies
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Screenshots](#screenshots)
+* [Scope of Functionalities](#scopeoffunctionalities)
+* [Target Users](#targetusers)
+* [References](#references)
 
-- HTML
-- CSS
-- JavaScript
+
+## General Information
+A simple web-based Pokedex based on the popular series "Pokemeon". The application prompts the user to enter their favourite number and it retrieves information from the PokeAPI which has an ID that corresponds to the user input. 
+
+
+## Technologies
+
+- HTML5
+- CSS3
+- JavaScript ES6
 - PokeAPI
 
-# Screenshots 
+## Screenshots 
 
 
 ![image](https://user-images.githubusercontent.com/55777067/126596468-17aa9c26-2949-4163-b24a-8ab68f1f2372.png)
@@ -18,7 +31,11 @@
 
 ![image](https://user-images.githubusercontent.com/55777067/126596559-372612a2-7459-40a1-801c-2f2478153bfd.png)
 
-# Target Users
+
+## Scope of Functionalities 
 
 
-# References
+## Target Users
+
+
+## References
