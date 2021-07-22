@@ -10,7 +10,7 @@
 
 
 ## General Information
-A simple web-based Pokedex based on the popular series "Pokemeon". The application retrieves information from the PokeAPI which has an ID that corresponds to the user input. 
+A simple web-based Pokedex based on the popular series "Pokemon". The application prompts the user to enter their favourite number and it retrieves information from the PokeAPI which has an ID that corresponds to the user input.
 
 
 ## Technologies
