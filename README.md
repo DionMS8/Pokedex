@@ -1,4 +1,4 @@
-# Pokedex Web App
+# Pokedex
 
 ## Table of contents
 * [General info](#general-info)
