@@ -32,10 +32,3 @@ A simple web-based Pokedex based on the popular series "Pokemon". The applicatio
 ![image](https://user-images.githubusercontent.com/55777067/126596559-372612a2-7459-40a1-801c-2f2478153bfd.png)
 
 
-## Scope of Functionalities 
-
-
-## Target Users
-
-
-## References
